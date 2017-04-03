@@ -7,7 +7,7 @@ var del = require("del");
 var fs = require("fs");
 var sourcemaps = require('gulp-sourcemaps');
 
-sadasdasdasdas
+
 var ext_replace = require('gulp-ext-replace');
 
 var hbsPrecompile = hbsp.precompile;
